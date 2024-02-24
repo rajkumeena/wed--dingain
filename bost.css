@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+h1{
+    font-family: 'Dancing script', cursive;
+}
+.carousel-item{
+    width: 100%;
+    height: 90vh;
+}
